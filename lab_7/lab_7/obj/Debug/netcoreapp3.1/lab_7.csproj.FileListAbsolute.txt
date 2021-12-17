@@ -1,0 +1,5 @@
+D:\для учебы\3 kyrs (nik)\lab_7\lab_7\obj\Debug\netcoreapp3.1\lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\для учебы\3 kyrs (nik)\lab_7\lab_7\obj\Debug\netcoreapp3.1\lab_7.AssemblyInfoInputs.cache
+D:\для учебы\3 kyrs (nik)\lab_7\lab_7\obj\Debug\netcoreapp3.1\lab_7.AssemblyInfo.cs
+D:\для учебы\3 kyrs (nik)\lab_7\lab_7\obj\Debug\netcoreapp3.1\lab_7.csproj.CoreCompileInputs.cache
+D:\для учебы\3 kyrs (nik)\lab_7\lab_7\obj\Debug\netcoreapp3.1\lab_7.csproj.AssemblyReference.cache
